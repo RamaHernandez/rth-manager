@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/rth-manager/static/css/main.86a2e777.css",
+    "main.js": "/rth-manager/static/js/main.edc01268.js",
+    "static/media/cancha.svg": "/rth-manager/static/media/cancha.fc358517fa5c2cffa5bde619bec86f40.svg",
+    "index.html": "/rth-manager/index.html",
+    "main.86a2e777.css.map": "/rth-manager/static/css/main.86a2e777.css.map",
+    "main.edc01268.js.map": "/rth-manager/static/js/main.edc01268.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.86a2e777.css",
+    "static/js/main.edc01268.js"
+  ]
+}
